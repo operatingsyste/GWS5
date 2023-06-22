@@ -18,6 +18,7 @@ function checkForUpdates(){
     else {
       alert("Update request cancled by you");
     }
+  }, 2000);
 }
 
 function bios(){
